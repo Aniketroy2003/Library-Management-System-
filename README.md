@@ -5,10 +5,10 @@ A python program to replicate the above heading...
 
 Updates to be added:
 
--> more functions
+---> more functions
 
--> adding a db
+---> adding a db
 
--> providing a GUI (turtle)
+---> providing a GUI (turtle)
 
 and so on...
